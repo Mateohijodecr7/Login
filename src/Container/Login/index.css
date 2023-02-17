@@ -1,0 +1,23 @@
+.wrapper-login{
+    border-radius: 10%;
+    border-style: double;
+    margin: 10% 35% 40% 35%;
+    background-color: antiquewhite;
+}
+
+.login-tittle {
+    margin-top: 40px;
+    margin-bottom: 55px;
+    text-align: center;
+    color: rgb(255, 106, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.wrapper-login_inputs {
+text-align-last: center ;
+}
+
+.boton_login{
+    margin: 5% 37% ;
+    border-radius: 18%;
+}
